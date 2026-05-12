@@ -1,4 +1,4 @@
-### 🛠 Languages and Tools:
+
 <img src="https://skillicons.dev/icons?i=c,java,asm,py,html,css,vscode,github" />
 
 <!--
