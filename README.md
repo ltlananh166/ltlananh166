@@ -1,4 +1,5 @@
-## Hi there 👋
+### 🛠 Languages and Tools:
+<img src="https://skillicons.dev/icons?i=c,java,asm,py,html,css,vscode,github" />
 
 <!--
 **ltlananh166/ltlananh166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
